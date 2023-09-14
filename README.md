@@ -1,1 +1,1 @@
-<h1 align="center">Calculator <a href="https://github.com/Pushpendra1723/Calculator-Vanilla-JS-/deployments/github-pages">🔴 LIVE</a></h1>
+<h1 align="center">Calculator 🔴<a href="https://pushpendra1723.github.io/Calculator-Vanilla-JS-/">LIVE</a></h1>
